@@ -1,0 +1,3 @@
+diferentes shield para arduino, no tiene mac y hay que colocarlo manualmente
+
+incluir la libreria: uipethernet
